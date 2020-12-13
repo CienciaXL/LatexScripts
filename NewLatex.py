@@ -68,6 +68,7 @@ templateTikTok = '''\\documentclass[]{TiktokScript}
 
 %% Pon un título
 \\title{%s}
+\\channel{Ciencia XL}
 
 \\begin{document}
 \\buildtitlepage
